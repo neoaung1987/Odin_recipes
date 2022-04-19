@@ -7,3 +7,7 @@ p {
     color: red;
 }
 body,h1 {font-family: "Raleway", sans-serif}
+* {
+    text-align: center;
+    color:antiquewhite
+}
